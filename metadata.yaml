@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36200
 description: 'I. The broad story: how America was found and tamed -- II. Specimen
   pioneers -- III. The greatest conquest: Pizarro and Peru.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33095#The-Spanish-Pioneers
 gutenberg_issued: '2010-07-06'
 gutenberg_type: Text
 identifiers:
