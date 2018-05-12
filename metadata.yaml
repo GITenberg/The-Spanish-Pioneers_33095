@@ -1,0 +1,32 @@
+_repo: The-Spanish-Pioneers_33095
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lummis, Charles Fletcher
+    aliases:
+    - Lummis, C. F. (Charles Fletcher)
+    - Lummis, Charles F. (Charles Fletcher)
+    birthdate: 1859
+    deathdate: 1928
+    gutenberg_agent_id: '36200'
+    url: http://www.gutenberg.org/2009/agents/36200
+description: 'I. The broad story: how America was found and tamed -- II. Specimen
+  pioneers -- III. The greatest conquest: Pizarro and Peru.'
+gutenberg_issued: '2010-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Discovery and exploration -- Spanish'
+- !lcsh 'New Mexico -- History'
+- !lcc 'E011'
+- !lcsh 'Peru -- History -- Conquest, 1522-1548'
+title: The Spanish Pioneers
+url: http://www.gutenberg.org/ebooks/33095
